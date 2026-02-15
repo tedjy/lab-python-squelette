@@ -1,10 +1,11 @@
 Voici un squelette en python deja preparer pour commencer a coder un projet
 
-Install environement variables :
+ Install environement variables :
 
-py -m venv .venv 
-.venv\Scripts\activate 
-py -m pip install -U pip 
-pip install pytest 
+- py -m venv .venv 
+- .venv\Scripts\activate 
+-  py -m pip install -U pip 
+- pip install pytest 
+
 
 
