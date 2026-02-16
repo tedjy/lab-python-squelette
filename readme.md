@@ -10,7 +10,7 @@ Voici un squelette en python deja preparer pour commencer a coder un projet
 Pour lancer le programme faire appel a main.py en faisant 
 - py -m monprojet.main
 
-grace a __main__.py 
+grace a (__main__.py)
 
 
 
