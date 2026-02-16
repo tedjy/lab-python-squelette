@@ -5,4 +5,7 @@ from monprojet.app import run
 def main() -> int:
     setup_logging()
     run()
+    
     return 0
+
+print("Démarrage de l'application")

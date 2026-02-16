@@ -7,5 +7,10 @@ Voici un squelette en python deja preparer pour commencer a coder un projet
 -  py -m pip install -U pip 
 - pip install pytest 
 
+Pour lancer le programme faire appel a main.py en faisant 
+- py -m monprojet.main
+
+grace a __main__.py 
+
 
 
